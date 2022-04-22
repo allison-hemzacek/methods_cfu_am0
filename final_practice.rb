@@ -1,5 +1,8 @@
 # Defining Our Own Methods
 # 1: Write a method named greeting that prints out a general greeting to someone
+def greeting
+  puts "Go away"
+end
 
 # What is the return value of your method?
 # How many arguments did you pass your method?
@@ -35,4 +38,3 @@
 # What is the return value of your method?
 # How many arguments did you pass your method?
 # What data type was your argument(s)?
-
