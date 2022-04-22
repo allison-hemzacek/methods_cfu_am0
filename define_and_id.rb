@@ -6,7 +6,7 @@
 # No arguments are passed; upcase has one clear job which is to capitalize all letters that exist in the String
 # The return value is "HI"
 "Hello World".upcase
-
+#.upcase => "HELLO WORLD"
 
 "Hello World".include?("Hello")
 
@@ -21,3 +21,4 @@
 
 
 "Hello World".size
+#.size 
