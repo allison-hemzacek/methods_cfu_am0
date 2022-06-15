@@ -3,6 +3,9 @@
 def greeting
   puts "Go away"
 end
+
+greeting
+
 # What is the return value of your method?
 "Go away"
 # How many arguments did you pass your method?
